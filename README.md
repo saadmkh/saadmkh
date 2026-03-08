@@ -2,7 +2,6 @@
 I'm Saad 
 
 I'm a web developer focused on learning and improving through practical projects and coding tasks.
-__
 
 I work with HTML, CSS, JavaScript, React, Python, and C++.
 
