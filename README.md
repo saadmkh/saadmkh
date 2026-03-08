@@ -1,5 +1,8 @@
-# 💫 About Me:
-Im currently working on react
+## Hi there
+
+I'm Saad
+
+I'm a web developer focused on learning and improving through practical projects and coding tasks.
 
 
 ## 🌐 Socials:
