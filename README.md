@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Saad 👋
 
+I'm a web developer focused on learning and improving through practical projects and coding tasks.
+
+I work with HTML, CSS, JavaScript, React, Python, and C++.
+
+Most of the time I practice by creating simple website clones, small webpages, and different coding tasks to strengthen my skills.
+
+Currently learning and improving every day.
 <!--
 **saadmkh/saadmkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
