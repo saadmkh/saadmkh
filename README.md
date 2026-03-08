@@ -17,11 +17,11 @@ I'm a web developer focused on learning<br>and improving through practical proje
 ---
 [![](https://visitcount.itsvg.in/api?id=saadmkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 📊 GitHub Stats:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saadmkh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saadmkh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadmkh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+-->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saadmkh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
